@@ -1,7 +1,11 @@
 # react vidly-app
 
 
+## App Sreenshots
 
+### Home-
+
+![](/Screenshot/vidly-image.png) 
 
 
 In the project directory, you can run:

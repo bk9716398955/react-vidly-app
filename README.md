@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# react vidly-app
+
+
+
 
 
 In the project directory, you can run:

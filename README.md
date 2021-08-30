@@ -5,7 +5,7 @@
 
 ### Home-
 
-![](/Screenshot/vidly-image.png) 
+![](/Screenshot/vidly-image-3.png) 
 
 
 In the project directory, you can run:
